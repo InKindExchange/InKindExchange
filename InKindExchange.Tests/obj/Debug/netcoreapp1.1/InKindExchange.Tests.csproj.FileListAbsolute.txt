@@ -1,0 +1,13 @@
+C:\GitHub\InKindExchange\InKindExchange\InKindExchange.Tests\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\GitHub\InKindExchange\InKindExchange\InKindExchange.Tests\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\GitHub\InKindExchange\InKindExchange\InKindExchange.Tests\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\GitHub\InKindExchange\InKindExchange\InKindExchange.Tests\bin\Debug\netcoreapp1.1\InKindExchange.Tests.deps.json
+C:\GitHub\InKindExchange\InKindExchange\InKindExchange.Tests\bin\Debug\netcoreapp1.1\InKindExchange.Tests.runtimeconfig.json
+C:\GitHub\InKindExchange\InKindExchange\InKindExchange.Tests\bin\Debug\netcoreapp1.1\InKindExchange.Tests.runtimeconfig.dev.json
+C:\GitHub\InKindExchange\InKindExchange\InKindExchange.Tests\bin\Debug\netcoreapp1.1\InKindExchange.Tests.dll
+C:\GitHub\InKindExchange\InKindExchange\InKindExchange.Tests\bin\Debug\netcoreapp1.1\InKindExchange.Tests.pdb
+C:\GitHub\InKindExchange\InKindExchange\InKindExchange.Tests\bin\Debug\netcoreapp1.1\InKindExchange.Website.dll
+C:\GitHub\InKindExchange\InKindExchange\InKindExchange.Tests\bin\Debug\netcoreapp1.1\InKindExchange.Website.pdb
+C:\GitHub\InKindExchange\InKindExchange\InKindExchange.Tests\obj\Debug\netcoreapp1.1\InKindExchange.Tests.AssemblyInfo.cs
+C:\GitHub\InKindExchange\InKindExchange\InKindExchange.Tests\obj\Debug\netcoreapp1.1\InKindExchange.Tests.dll
+C:\GitHub\InKindExchange\InKindExchange\InKindExchange.Tests\obj\Debug\netcoreapp1.1\InKindExchange.Tests.pdb
